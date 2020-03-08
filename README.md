@@ -1,24 +1,15 @@
 # sxb-ui
+[![npm version](https://badge.fury.io/js/sxb-ui.svg)](https://badge.fury.io/js/sxb-ui)
 
-## Project setup
+## QuickStart
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+npm install sxb-ui
 ```
 
-### Compiles and minifies for production
+## usage
 ```
-yarn build
+import sxbUi from 'sxb-ui'
+import 'sxbUi/dist/sxb-ui.css'
+Vue.use(sxbUi)
 ```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ 
