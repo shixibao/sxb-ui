@@ -12,7 +12,7 @@
   "main": "./dist/sxb-ui.umd.min.js",
   "dependencies": {
     "core-js": "^3.6.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "v-click-outside": "^3.0.1",
     "vue": "^2.6.11"
   },
